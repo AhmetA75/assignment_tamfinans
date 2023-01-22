@@ -1,0 +1,6 @@
+Faker==16.6.0
+numpy==1.22.3
+pandas==1.4.2
+pandas_profiling==3.6.2
+redisgraph==2.4.4
+ujson==5.5.0

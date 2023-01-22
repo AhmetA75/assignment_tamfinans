@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+
+  redis-stack:
+    image: redis/redis-stack-server:latest
+    container_name: redis-stack-container
+    ports:
+      - "6479:6379"
+    volumes:
+      - ./redis/data:/data
+
+  redis-insight:
+    image: redislabs/redisinsight
+    container_name: redis-insight-container
+    ports:
+      - "8001:8001"
