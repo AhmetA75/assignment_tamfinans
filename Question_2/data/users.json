@@ -1,0 +1,1346 @@
+{
+  "3": {
+    "buy": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 3,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "4": {
+    "buy": {
+      "phone": 1,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 3,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 4
+    }
+  },
+  "5": {
+    "buy": {
+      "phone": 4,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 4,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 4,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 4
+    }
+  },
+  "6": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "7": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 2
+    }
+  },
+  "8": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 3,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "10": {
+    "buy": {
+      "phone": 1,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 4,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 4
+    }
+  },
+  "11": {
+    "buy": {
+      "phone": 2,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 4,
+      "dress": 3,
+      "pencil": 2,
+      "watch": 2
+    }
+  },
+  "13": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 1,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 2,
+      "dress": 2,
+      "pencil": 2,
+      "watch": 1
+    }
+  },
+  "14": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "15": {
+    "buy": {
+      "phone": 4,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 0,
+      "dress": 4,
+      "pencil": 5,
+      "watch": 0
+    }
+  },
+  "16": {
+    "buy": {
+      "phone": 1,
+      "laptop": 1,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 5,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 0
+    }
+  },
+  "17": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    }
+  },
+  "19": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "20": {
+    "buy": {
+      "phone": 1,
+      "laptop": 4,
+      "dress": 1,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 4,
+      "dress": 2,
+      "pencil": 3,
+      "watch": 5
+    }
+  },
+  "21": {
+    "buy": {
+      "phone": 3,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 3,
+      "pencil": 1,
+      "watch": 1
+    }
+  },
+  "22": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 4,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 4,
+      "watch": 1
+    }
+  },
+  "23": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 2,
+      "pencil": 5,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 2,
+      "dress": 3,
+      "pencil": 5,
+      "watch": 3
+    }
+  },
+  "25": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 3,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 4,
+      "pencil": 2,
+      "watch": 0
+    }
+  },
+  "27": {
+    "buy": {
+      "phone": 3,
+      "laptop": 0,
+      "dress": 4,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 3,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "28": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "29": {
+    "buy": {
+      "phone": 0,
+      "laptop": 4,
+      "dress": 1,
+      "pencil": 1,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 4,
+      "dress": 3,
+      "pencil": 1,
+      "watch": 5
+    }
+  },
+  "30": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 3,
+      "pencil": 2,
+      "watch": 0
+    }
+  },
+  "31": {
+    "buy": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 1,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 1,
+      "dress": 4,
+      "pencil": 2,
+      "watch": 2
+    }
+  },
+  "32": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "33": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "34": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 5
+    }
+  },
+  "35": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 5
+    }
+  },
+  "36": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "38": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 4,
+      "pencil": 0,
+      "watch": 5
+    }
+  },
+  "39": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 2,
+      "watch": 0
+    }
+  },
+  "40": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 5,
+      "watch": 0
+    }
+  },
+  "41": {
+    "buy": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 5,
+      "dress": 3,
+      "pencil": 3,
+      "watch": 1
+    }
+  },
+  "42": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 1
+    }
+  },
+  "43": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 2
+    }
+  },
+  "44": {
+    "buy": {
+      "phone": 5,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 4,
+      "watch": 3
+    }
+  },
+  "45": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 4
+    }
+  },
+  "46": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "48": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    }
+  },
+  "51": {
+    "buy": {
+      "phone": 2,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 1
+    }
+  },
+  "52": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 5,
+      "dress": 5,
+      "pencil": 4,
+      "watch": 0
+    }
+  },
+  "54": {
+    "buy": {
+      "phone": 1,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 3,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "56": {
+    "buy": {
+      "phone": 1,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 2
+    }
+  },
+  "57": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 4,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 3
+    }
+  },
+  "58": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 4,
+      "dress": 5,
+      "pencil": 4,
+      "watch": 5
+    }
+  },
+  "59": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "60": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 2,
+      "pencil": 4,
+      "watch": 5
+    }
+  },
+  "61": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 2,
+      "dress": 3,
+      "pencil": 1,
+      "watch": 3
+    }
+  },
+  "62": {
+    "buy": {
+      "phone": 4,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 4,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 5,
+      "dress": 1,
+      "pencil": 4,
+      "watch": 4
+    }
+  },
+  "63": {
+    "buy": {
+      "phone": 1,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 2,
+      "dress": 3,
+      "pencil": 5,
+      "watch": 2
+    }
+  },
+  "64": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 1
+    }
+  },
+  "65": {
+    "buy": {
+      "phone": 2,
+      "laptop": 5,
+      "dress": 4,
+      "pencil": 3,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 5,
+      "dress": 5,
+      "pencil": 5,
+      "watch": 0
+    }
+  },
+  "66": {
+    "buy": {
+      "phone": 0,
+      "laptop": 4,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 0
+    }
+  },
+  "67": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 4,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 0
+    }
+  },
+  "68": {
+    "buy": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "69": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "70": {
+    "buy": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 1
+    }
+  },
+  "71": {
+    "buy": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "72": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 3,
+      "watch": 5
+    }
+  },
+  "73": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 5
+    }
+  },
+  "74": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 1,
+      "pencil": 3,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 3,
+      "dress": 2,
+      "pencil": 5,
+      "watch": 2
+    }
+  },
+  "76": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 2,
+      "pencil": 1,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 4,
+      "dress": 3,
+      "pencil": 1,
+      "watch": 0
+    }
+  },
+  "77": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 3
+    }
+  },
+  "78": {
+    "buy": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "79": {
+    "buy": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 4,
+      "dress": 2,
+      "pencil": 4,
+      "watch": 5
+    }
+  },
+  "80": {
+    "buy": {
+      "phone": 5,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 3
+    }
+  },
+  "81": {
+    "buy": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 5,
+      "watch": 5
+    }
+  },
+  "82": {
+    "buy": {
+      "phone": 2,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 3
+    }
+  },
+  "83": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "84": {
+    "buy": {
+      "phone": 4,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 0,
+      "dress": 4,
+      "pencil": 4,
+      "watch": 4
+    }
+  },
+  "85": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 2
+    }
+  },
+  "86": {
+    "buy": {
+      "phone": 1,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 3,
+      "pencil": 0,
+      "watch": 3
+    }
+  },
+  "87": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 4,
+      "watch": 0
+    }
+  },
+  "88": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 0
+    }
+  },
+  "89": {
+    "buy": {
+      "phone": 5,
+      "laptop": 1,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 2,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 3
+    }
+  },
+  "90": {
+    "buy": {
+      "phone": 2,
+      "laptop": 1,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 2,
+      "laptop": 1,
+      "dress": 3,
+      "pencil": 2,
+      "watch": 3
+    }
+  },
+  "91": {
+    "buy": {
+      "phone": 0,
+      "laptop": 2,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 0
+    }
+  },
+  "92": {
+    "buy": {
+      "phone": 1,
+      "laptop": 2,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 3
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 3,
+      "watch": 4
+    }
+  },
+  "93": {
+    "buy": {
+      "phone": 4,
+      "laptop": 1,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 2
+    },
+    "add_cart": {
+      "phone": 4,
+      "laptop": 5,
+      "dress": 5,
+      "pencil": 1,
+      "watch": 4
+    }
+  },
+  "94": {
+    "buy": {
+      "phone": 3,
+      "laptop": 1,
+      "dress": 1,
+      "pencil": 4,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 3,
+      "laptop": 4,
+      "dress": 5,
+      "pencil": 4,
+      "watch": 4
+    }
+  },
+  "95": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 2,
+      "watch": 1
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 4,
+      "watch": 3
+    }
+  },
+  "96": {
+    "buy": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 1,
+      "pencil": 0,
+      "watch": 4
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 0,
+      "dress": 2,
+      "pencil": 0,
+      "watch": 4
+    }
+  },
+  "97": {
+    "buy": {
+      "phone": 0,
+      "laptop": 3,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 0,
+      "laptop": 5,
+      "dress": 0,
+      "pencil": 1,
+      "watch": 0
+    }
+  },
+  "99": {
+    "buy": {
+      "phone": 5,
+      "laptop": 0,
+      "dress": 0,
+      "pencil": 0,
+      "watch": 0
+    },
+    "add_cart": {
+      "phone": 5,
+      "laptop": 2,
+      "dress": 5,
+      "pencil": 0,
+      "watch": 0
+    }
+  }
+}
