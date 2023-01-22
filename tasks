@@ -1,0 +1,19 @@
+Q1) 
+Müşterilerin gerçekleştirmiş oldukları işlemlerin tutulduğu bir veri tablo olduğunu düşünelim. Her bir satır için 6 adet değeri hesaplamak gerekmektedir.
+Geçmiş 12 ay işlem sayısı, geçmiş 6 ay işlem sayısı geçmiş 3 ay işlem sayısı, gelecek 3 ay işlem sayısı, gelecek 6 ay işlem sayısı, gelecek 12 ay işlem sayısı. O anki işlemi geçmiş kısma dahil ediniz lütfen. 
+Bu işlemleri gerçekleştirecek SQL kodunu yazınız.
+Not: Bir tabloda milyonlar işlem oldğunu düşünerek lütfen performansa dikkat ediniz. Verileri kendiniz üretebilir veya herhangi bir platformdan çekebilirsiniz.
+
+
+Q2)
+Kullanmış olduğunuz herhangi bir No-SQL database var mıdır? 
+Eğer varsa açıklayınız lütfen.
+Docker kullanarak Redis Stack Server ve Redis Insight kurunuz. Daha sonrasında Redis Graphı python ile birlikte kullanarak 100 bin adet müşteri ve bu müşterilerin her biri için en az 3 adet properties ekleyiniz lütfen. Her bir müşterinin birden çok edge i olabilir. Her edge sonrasında 2 farklı node daha olması gerekmektedir. Bunlar Add to card ve Buy node larıdır. Müşteriler ürünleri sepetlerine eklemiş olabilir veya sonrasında almış olabilir. 
+Grafik oluşturulduktan sonra bir öneri motoru geliştiririniz. Bu öneri motoru sonrasında müşterilerin birbirleri arasındaki benzerlik oranlarını biribirleri arasına edge ekleyerek beliritiniz.
+Not: Tasarım örnek olarak verilmiştir. Node, edge, ürünler vs. Graph şeması nasıl aklınıza yatıyorsa o şekilde geliştirebilirsiniz.
+
+
+Q3)
+Herhangi bir platformdan bir veri seti alınız. Daha sonrasında data analizi işlemleri gerçekleştiriniz. Görselleştirmeler yapınız. Auto Eda toolarını da inceleyebilirsiniz. Analizleriniz sonrasında veri işleme kısmına geçiniz. Burada önemli olan analizleriniz çoklu gerçekleştirmek ve buna ek olarak en iyi yönteme karar vermeniz gerekmektedir. Örneğin boş verilerin handle edilmesi için drop ediniz, ortalama atayınız, chain rule kullanınız, mice imputer kullanınız ve knn imputer kullanınız gibi.
+Kategorik verilen dönüştürülmesi içinde aynı şekilde örnek olarak WOE, target encoder, M-estimator, James-Stein, One hot vs vs. gibi deneyiniz. Veriler arasındaki korelasyona vs dikkat ediniz. Feature enginering uygulayınız. Normalization ve standardization gerçekleştiriniz. Gerek duyarsanız dimension reduction gerçekleştiriniz. Model kurma aşamasında model sonuçları için classification report, confusion matrix, roc-auc ve diğer accuracy skor metrikleri üzerinden karşılaştırınız. Daha sonrasında grid search gerçekleştiriniz. Best modeli bulduktan sonra ‘shap’ veya ‘eli5’ kullanınız.
+Not:Burada çoğaltabilirisiniz örnekleri. Feature selection, model için data pipeline oluşturma vs vs.
