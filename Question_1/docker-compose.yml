@@ -1,0 +1,28 @@
+version: '3'
+
+services:  
+  postgres-server:
+    container_name: postgres_container
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    volumes:
+      - ./postgres_config/init.sql:/docker-entrypoint-initdb.d/init.sql
+#      - ./postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5532:5432"
+    restart: unless-stopped
+
+  pgadmin:
+    container_name: pgadmin_container
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: pgadmin4@pgadmin.org
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_CONFIG_SERVER_MODE: "False"
+    volumes:
+      - ./postgres_config/servers.json:/pgadmin4/servers.json
+      - ./postgres_config/pgpass:/pgpass
+    ports:
+      - "5533:80"
